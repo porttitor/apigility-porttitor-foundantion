@@ -1,0 +1,14 @@
+{
+    "name": "porttitor/apigility-porttitor-foundantion",
+    "description": "Fondantion is not for kids.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sérgio Ernane MUnhós Hermes",
+            "email": "hermes.sergio@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
